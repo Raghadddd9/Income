@@ -19,7 +19,7 @@ In this project a model will be build given a data set to predict income whether
 
 - Data Description 
 
-We will be using (income classification ) Dataset from Kaggle .
+We will be using (income classification ) Dataset from Kaggle [here](https://www.kaggle.com/lodetomasi1995/income-classification/code).
 The dataset contains information about people and their income, 15 columns and 32,561 rows.
 
 
