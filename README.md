@@ -17,7 +17,7 @@ In this project a model will be build given a data set to predict income whether
 
 
 
-- Data description 
+- Data Description 
 
 We will be using (income classification ) Dataset from Kaggle .
 The dataset contains information about people and their income, 15 columns and 32,561 rows.
