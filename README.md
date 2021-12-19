@@ -6,14 +6,14 @@
 
 - Overview
 
-Finance company was one of the first companies to have recognized the need for Islamic consumer finance in the Kingdom. Equipped with this knowledge and insight,The sole purpose behind creating the company was to enable our clients to enrich their lives and achieve their ambitions by providing effortless financial services through innovative digital solutions.
+Income is money that a person or a business receives in return for working, providing a product or service, or investing capital. A person ' s income may also derive from a pension, a government benefi
 
 
 
 
 - Problem Statment
 
-In this project a model will be build given a data set to predict income whether this person makes over 50K per year or not.
+building a model to predict whether an individual’s income will be greater than $50,000 per year based on several attributes .Helping Governments for income tax or any finance company.
 
 
 
