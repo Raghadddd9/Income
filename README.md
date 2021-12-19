@@ -33,19 +33,19 @@ The dataset contains information about people and their income, 15 columns and 3
 
  - workclass: a general term to represent the employment status of an individual
 
-  - Private, Self-emp-not-inc,, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.
+   - Private, Self-emp-not-inc,, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.
 
  - fnlwgt: : final weight. In other words, this is the number of people the census believes the entry represents..
 
- - Integer greater than 0
+  - Integer greater than 0
 
  - education: the highest level of education achieved by an individual.
 
-  - Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th, 7th- 8th, 12th, Masters, 1st-4th,10th, Doctorate, 5th-6th, Preschool.
+   - Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th, 7th- 8th, 12th, Masters, 1st-4th,10th, Doctorate, 5th-6th, Preschool.
 
 - education-num: the highest level of education achieved in numerical form.
 
-  - Integer greater than 0
+   - Integer greater than 0
 
 - marital-status:marital status of an individual. Married-civ-spouse corresponds to a civilian spouse while Married-AF-spouse is a spouse in the Armed Forces.
 
