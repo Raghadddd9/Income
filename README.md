@@ -85,9 +85,9 @@ South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam
 Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand,
 Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.
 
-income whether or not an individual makes more than $50,000 annually.
+-income whether or not an individual makes more than $50,000 annually.
 
-●50K, <=50Kmore or less 50k/per year
+--●50K, <=50Kmore or less 50k/per year
 
 
 
