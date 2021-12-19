@@ -98,4 +98,4 @@ one relationship attribute and is somewhat redundant with marital status. We mig
 
 - Tools 
 
-Numpy, Pandas , Seaborn , matplot, LogisticRegression, train_test_split, precision_score, recall_score, accuracy_score, roc_auc_score, confusion_matrix, StandardScaler
+Numpy, Pandas , Seaborn , matplot, sklearn,xgboost,imblearn.
