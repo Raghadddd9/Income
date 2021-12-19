@@ -87,7 +87,7 @@ Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.
 
 -income whether or not an individual makes more than $50,000 annually.
 
---●50K, <=50Kmore or less 50k/per year
+- - ●50K, <=50Kmore or less 50k/per year
 
 
 
