@@ -29,7 +29,7 @@ The dataset contains information about people and their income, 15 columns and 3
 
  - age: the age of an individual
 
- - Integer greater than 0
+  - Integer greater than 0
 
  - workclass: a general term to represent the employment status of an individual
 
@@ -37,7 +37,7 @@ The dataset contains information about people and their income, 15 columns and 3
 
  - fnlwgt: : final weight. In other words, this is the number of people the census believes the entry represents..
 
-  - Integer greater than 0
+   - Integer greater than 0
 
  - education: the highest level of education achieved by an individual.
 
