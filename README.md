@@ -40,6 +40,7 @@ fnlwgt: : final weight. In other words, this is the number of people the census 
 ● Integer greater than 0
 
 education: the highest level of education achieved by an individual.
+
 ●Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th, 7th- 8th, 12th, Masters, 1st-4th,10th, Doctorate, 5th-6th, Preschool.
 
 education-num: the highest level of education achieved in numerical form.
