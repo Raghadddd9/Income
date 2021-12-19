@@ -68,26 +68,26 @@ sex:: the biological sex of the individual.
 
 capital-gain: capital gains for an individual.
 
-●Integer greater than or equal to 0
+  - Integer greater than or equal to 0
 
-capital-loss: capital loss for an individual
+- capital-loss: capital loss for an individual
 
-●Integer greater than or equal to 0
+  - Integer greater than or equal to 0
 
-hours-per-week:: the hours an individual has reported to work per week.
+- hours-per-week:: the hours an individual has reported to work per week.
 
-● continuous.
+  - continuous.
 
-native-country:country of origin for an individual.
+- native-country:country of origin for an individual.
 
-●United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece,
-South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France,
-Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand,
-Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.
+  - United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece,
+    South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France,
+    Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand,
+    Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.
 
--income whether or not an individual makes more than $50,000 annually.
+- income whether or not an individual makes more than $50,000 annually.
 
-- - ●50K, <=50Kmore or less 50k/per year
+  - 50K, <=50Kmore or less 50k/per year
 
 
 
