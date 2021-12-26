@@ -6,7 +6,7 @@
 
 - Overview
 
-Income is money that a person or a business receives in return for working, providing a product or service, or investing capital. A person ' s income may also derive from a pension, a government benefi
+Income is money that a person or a business receives in return for working, providing a product or service, or investing capital. A person ' s income may also derive from a pension, a government benefit
 
 
 
